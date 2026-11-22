@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ClearVision AI — Streamlit Dashboard
 
 A unified local Streamlit interface for:
@@ -70,3 +71,7 @@ Streamlit will print a local URL, usually `http://localhost:8501`.
 - PSNR and SSIM are only meaningful when the uploaded reference is a correctly paired clean ground-truth image. This prototype resizes both images to 256x256 for evaluation.
 - Video detections are counted per frame; the total is not the number of unique people.
 - This is a research demonstration, not a safety-critical surveillance system.
+=======
+# AIML-Dehazing-Desmoking
+AIML-based image and video dehazing and desmoking with person detection
+>>>>>>> origin/main
